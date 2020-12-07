@@ -1,6 +1,11 @@
 body{
-    background-color: cornflowerblue;
+    background-color: rgb(185, 191, 197);
+    font-family: arial;
 }
 h1#head1{
     text-align: center;
+}
+span.datos{
+    font-family: Arial;
+    text-decoration: underline;
 }
